@@ -9,9 +9,9 @@ https://blog.teikochi.top/tags/index.html
 https://blog.teikochi.top/categories/index.html
 https://blog.teikochi.top/2022/12/22/%E4%B8%80%E4%BA%9B%E9%97%B2%E8%AF%9D/
 https://blog.teikochi.top/2022/10/02/%E4%B8%80%E9%A6%96%E5%B0%8F%E8%AF%97/
-https://blog.teikochi.top/lib/bookmark/README.html
 https://blog.teikochi.top/lib/bookmark/package.json
 https://blog.teikochi.top/lib/bookmark/renovate.json
+https://blog.teikochi.top/lib/bookmark/README.html
 https://blog.teikochi.top/
 https://blog.teikochi.top/tags/%E9%A2%98%E8%A7%A3/
 https://blog.teikochi.top/tags/DP/
@@ -22,7 +22,7 @@ https://blog.teikochi.top/tags/%E5%B0%8F%E7%80%AC%E6%9D%91%E6%99%B6/
 https://blog.teikochi.top/tags/Shaylee/
 https://blog.teikochi.top/tags/Linkin-Park/
 https://blog.teikochi.top/tags/BFS/
+https://blog.teikochi.top/categories/%E9%97%B2%E8%AF%9D/
 https://blog.teikochi.top/categories/OI/
 https://blog.teikochi.top/categories/%E5%B0%8F%E4%BD%9C%E6%96%87/
-https://blog.teikochi.top/categories/%E9%97%B2%E8%AF%9D/
 https://blog.teikochi.top/categories/%E9%97%B2%E8%AF%9D/OI/
