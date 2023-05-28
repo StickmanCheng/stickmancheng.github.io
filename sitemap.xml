@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://blog.teikochi.top/lib/bookmark/README.html</loc>
+    <loc>https://blog.teikochi.top/lib/bookmark/package.json</loc>
     
     <lastmod>2019-06-25</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://blog.teikochi.top/lib/bookmark/package.json</loc>
+    <loc>https://blog.teikochi.top/lib/bookmark/README.html</loc>
     
     <lastmod>2019-06-25</lastmod>
     
@@ -145,6 +145,13 @@
   
   <url>
     <loc>https://blog.teikochi.top/tags/DP/</loc>
+    <lastmod>2023-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.teikochi.top/tags/2023/</loc>
     <lastmod>2023-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -187,13 +194,6 @@
   
   <url>
     <loc>https://blog.teikochi.top/tags/BFS/</loc>
-    <lastmod>2023-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.teikochi.top/tags/2023/</loc>
     <lastmod>2023-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
