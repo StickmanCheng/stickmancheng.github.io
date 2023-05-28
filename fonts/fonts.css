@@ -1,0 +1,12 @@
+@font-face {
+	font-family: HarmonyOS;
+	font-display: swap;
+	src: url('/fonts/HarmonyOS.woff') format("woff"),
+    url('/fonts/HarmonyOS.ttf') format("truetype");
+}
+@font-face {
+	font-family: SourceCodePro;
+	font-display: swap;
+	src: url('/fonts/SourceCodePro.woff') format("woff"),
+    url('/fonts/SourceCodePro.ttf') format("truetype");
+}
